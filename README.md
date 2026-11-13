@@ -6,6 +6,9 @@ paper from the public input data.
 
 **Licence:** CC-BY-4.0 · **Version:** v1.0 · **Contact:** mapenglaw@163.com (Peng Ma, Department of Neurosurgery, Taicang Loujiang New City Hospital)
 
+**Repository:** https://github.com/MAPenglaw/glioma-ir-atlas · **Archived at Zenodo:** https://doi.org/10.5281/zenodo.24186189 (concept DOI 10.5281/zenodo.24186188)
+
+
 ---
 
 ## 1. Scope of what is archived
