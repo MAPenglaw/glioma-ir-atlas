@@ -1,0 +1,34 @@
+{
+  "title": "Analysis code for: Global intron retention burden in glioma: a cross-cohort computational analysis of splicing structure, spliceosome coupling and clinical correlates",
+  "description": "Complete analysis code (44 Python, 16 R scripts) for the study of global intron retention burden in TCGA glioblastoma and lower-grade glioma, including pan-cancer validation across 31 tumour types (8,266 tumours) and replication with an independent PSI quantification pipeline (TCGASpliceSeq). Input data are public (TCGA, CGGA, GTEx, Kahles 2018 pan-cancer splicing atlas) and are not redistributed here; see README section 2.",
+  "creators": [
+    {
+      "name": "Ma, Peng",
+      "affiliation": "Department of Neurosurgery, Taicang Loujiang New City Hospital (Ruijin Hospital Taicang Branch), Taicang, China",
+      "orcid": "0000-0002-6821-5337"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "upload_type": "software",
+  "access_right": "open",
+  "keywords": [
+    "intron retention",
+    "alternative splicing",
+    "glioma",
+    "glioblastoma",
+    "spliceosome",
+    "PSI",
+    "TCGA",
+    "splicing burden",
+    "negative results"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "42469219",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-article",
+      "scheme": "pmid"
+    }
+  ],
+  "notes": "Scripts 55 and 56 are superseded exploratory versions retained for provenance; script 57 is the definitive cross-pipeline replication. See README section 1."
+}
